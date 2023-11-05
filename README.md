@@ -1,6 +1,6 @@
 ## Description
 
-An add-on module for Asacolips' Powered by the Apocalypse (PbtA) system for Foundry VTT to add the Monster of the Week playbooks and moves. It will also configure the actor and NPC sheets for Monster of the Week. The Character Sheet is now available in English, French and German.
+An add-on module for Asacolips' Powered by the Apocalypse (PbtA) system for Foundry VTT to add the Medieval Monster of the Week playbooks and moves. It will also configure the actor and NPC sheets for Monster of the Week. The Character Sheet is now available in English, French and German.
 
 The module also includes playbooks from Monster of the Week: Tome of Mysteries, and MotW: Hardcover Edition, plus Special (Luck) Moves, More Flexible Investigations, and Alternative Weird Basic Moves.
 
@@ -30,6 +30,7 @@ The following Foundry VTT game system must be installed: [Powered by the Apocaly
 
 * The Powered by the Apocalypse system for Foundry VTT is created and maintained by Asacolips.
 * French tanslation by TooPick (Alexandre SANIGOU). German translation by benjin and HAL325- Thank you all!
+* Medieval MotW hack by Alice Serena Susi
 
 ## Additional credits
 
